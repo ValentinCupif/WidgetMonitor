@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/webbrowser.png</file>
+        <file>images/widget.png</file>
+    </qresource>
+</RCC>
